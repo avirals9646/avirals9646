@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avirals9646
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Supervised ML Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Python Django Projects
 - 📫 How to reach me aviralunited@gmail.com
 
 <!---
